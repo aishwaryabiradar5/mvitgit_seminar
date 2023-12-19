@@ -1,4 +1,8 @@
-This is git workshop
+iiThis is git workshop
 second line
 thirsd line
+<<<<<<< HEAD
 fiutuyjjjgkhg
+=======
+anup izzz mad
+>>>>>>> vathi
